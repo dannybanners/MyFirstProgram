@@ -6,7 +6,7 @@ A simple Python program that prints "Hello World!" to the console.
 
 - **Name:** Bamigbele Daniel Oreoluwa
 - **Matric No:** 25/18193
-- **Repository:** 
+- **Repository:** https://github.com/dannybanners/MyFirstProgram
 
 ## Description
 
